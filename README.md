@@ -13,10 +13,13 @@
 
 - 💬 Ask me about **Python, JavaScript, React.js, Node.js, MongoDB, MySQL, Full Stack Development**
 
+- 📫 How to reach me **rauneetsingh07@gmail.com**
+
+- 🌐 View my portfolio - **[rauneet-singh.vercel.app](https://rauneet-singh.vercel.app/)**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/rauneet-singh-5676ab250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rauneet-singh" height="30" width="40" /></a>
-<a href="https://github.com/rnt07s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rnt07s" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rauneetsinghh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rauneetsinghh" height="30" width="40" /></a>
 </p>
 

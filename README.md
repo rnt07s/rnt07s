@@ -40,9 +40,5 @@
 </p>
 
 <div align="center">
-<h2>Github Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rnt07s&show_icons=true&theme=github_dark" alt="rnt07s"  />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnt07s&layout=compact&theme=github_dark" alt="rnt07s" />
 </div>

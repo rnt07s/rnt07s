@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Rauneet%20Singh&fontSize=50&fontColor=fff&animation=twinkling)
 
-<h1 align="center">Software Engineer | DevOps | Data Science | Data Analyst</h1>
+<h1 align="center">Software Engineer| Full Stack Developer | DevOps | Data Science </h1>
 <h3 align="center">PASSIONATE PROBLEM SOLVER</h3>
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">

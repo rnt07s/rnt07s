@@ -156,8 +156,6 @@
   <p><strong>400+</strong> problems solved across:</p>
   <div style="margin: 10px 0;">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
   </div>
 </div>
 
@@ -243,4 +241,4 @@ Goal: Contributing to Open Source Projects
 
 ![](https://komarev.com/ghpvc/?username=rnt07s&color=blueviolet&style=for-the-badge)
 
-</div>thi
+</div>

@@ -198,13 +198,18 @@ const rauneet = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rnt07s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnt07s&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/rnt07s/rnt07s">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rnt07s&theme=github_dark&hide_border=true" alt="Rauneet's GitHub Stats Graph"/>
+  </a>
+  <br><br>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rnt07s&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnt07s&theme=github-dark-blue&hide_border=true" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnt07s&layout=compact&theme=github_dark&show_icons=true&hide_border=true" alt="rnt07s" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnt07s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rnt07s&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rnt07s&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 ---

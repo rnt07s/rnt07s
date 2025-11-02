@@ -240,4 +240,4 @@ Goal: Contributing to Open Source Projects
 
 ![](https://komarev.com/ghpvc/?username=rnt07s&color=blueviolet&style=for-the-badge)
 
-</div>
+</div>thi

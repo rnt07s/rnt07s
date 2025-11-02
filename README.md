@@ -30,7 +30,7 @@
 ```javascript
 const rauneet = {
     location: "New Delhi, India 🇮🇳",
-    education: "VIT - CSE (CGPA: 8.23)",
+    education: "VIT - CSE",
     role: "Full-Stack Developer",
     code: ["JavaScript", "Python", "Java", "C++"],
     askMeAbout: ["Web Dev", "APIs", "Cloud", "Chess ♟️"],
@@ -56,19 +56,8 @@ const rauneet = {
 <tr>
 <td width="50%">
 
-<table>
-<tr>
-<td width="90" valign="top">
-<img src="https://raw.githubusercontent.com/rnt07s/rnt07s/main/smartbridge-logo.png" alt="SmartBridge" width="80"/>
-</td>
-<td valign="top">
-
-### SmartBridge
-**Full-Stack Developer** | *March 2025 - May 2025*
-
-</td>
-</tr>
-</table>
+### 🏢 SmartBridge
+**Full-Stack Developer** | *Jan 2025 - Apr 2025*
 
 - 💰 Built expense tracker with **React, Node.js & MongoDB**
 - 🤖 Implemented **AI-powered** categorization
@@ -156,90 +145,8 @@ const rauneet = {
 
 ---
 
-## 🎯 Featured Projects
 
-<div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🚗 VeloRent - Car Rental Platform
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-
-✨ Full-stack car rental platform with **JWT auth**  
-💳 **Stripe payment** integration  
-⚡ **60%** faster booking process  
-👥 Serving **30+ users**  
-📊 **99.8%** transaction success rate
-
-[View Project →](#)
-
-</td>
-<td width="50%">
-
-### ⚡ TypeRush - Multiplayer Game
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-
-🎮 Real-time multiplayer typing game  
-👥 **100+ concurrent users**  
-⚡ **Sub-50ms latency**  
-📈 **30+ WPM** speed improvements  
-🏆 5 game modes with leaderboards
-
-[View Project →](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 Personal Expense Tracker
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-
-💸 Full-stack expense management app  
-📊 **100+ expense entries** tracked  
-🎯 **15+ categories** with analytics  
-🔐 JWT authentication  
-📈 **95%** data accuracy
-
-[View Project →](#)
-
-</td>
-<td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100%">
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <a href="https://github.com/rnt07s/rnt07s">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rnt07s&theme=github_dark&hide_border=true" alt="Rauneet's GitHub Stats Graph"/>
-  </a>
-  <br><br>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rnt07s&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnt07s&theme=github-dark-blue&hide_border=true" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnt07s&layout=compact&theme=github_dark&show_icons=true&hide_border=true" alt="rnt07s" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rnt07s&theme=github-compact&hide_border=true&area=true" />
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
@@ -261,40 +168,7 @@ const rauneet = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
----
 
-## 🎨 Extracurricular Activities
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://media.giphy.com/media/YOqbsB7Ega3xlShMLe/giphy.gif" width="100">
-
-**🏸 Sports Coordinator**  
-Badminton - AdVITya Fest  
-Managed 50+ participants
-
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-**💻 Open Source Club**  
-Core Member  
-Tech Workshops & Projects
-
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d62dfd2f9224.gif" width="100">
-
-**🤝 NSS Volunteer**  
-Community Service  
-Social Initiatives
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📈 Coding Activity
 

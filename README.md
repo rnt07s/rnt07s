@@ -195,20 +195,6 @@ const rauneet = {
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rauneetsingh07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rauneetsingh07&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rauneetsingh07&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rauneetsingh07&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
----
-
 ## 🏆 Achievements & Certifications
 
 <div align="center">

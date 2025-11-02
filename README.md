@@ -16,6 +16,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rauneet-singh-5676ab250/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rnt07s)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/rnt07s/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rauneetsingh07@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://rauneet-singh.vercel.app/)
 
@@ -27,41 +28,43 @@
 
 ## 🚀 About Me
 
-```javascript
-const rauneet = {
-    location: "New Delhi, India 🇮🇳",
-    education: "VIT - CSE",
-    role: "Full-Stack Developer",
-    code: ["JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["Web Dev", "APIs", "Cloud", "Chess ♟️"],
-    technologies: {
-        frontend: ["React", "Redux", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express", "FastAPI", "Flask"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["AWS", "Docker", "CI/CD", "Jenkins"],
-        testing: ["Jest", "TDD"]
-    },
-    currentFocus: "Building scalable applications",
-    funFact: "1400+ Chess.com rating ♟️"
-};
-```
+- 🏠 Based in New Delhi, India 🇮🇳
+- 🎓 Education: VIT - CSE
+- 💻 Full-Stack Developer
+- 🛠️ Skills: JavaScript, Python, Java, C++
+- 💡 Interests: Web Dev, APIs, Cloud, Chess ♟️
+- 🔧 Tech Stack:
+  - Frontend: React, Redux, HTML5, CSS3
+  - Backend: Node.js, Express, FastAPI, Flask
+  - Databases: MongoDB, PostgreSQL, MySQL
+  - DevOps: AWS, Docker, CI/CD, Jenkins
+  - Testing: Jest, TDD
+- 🎯 Current Focus: Building scalable applications
+- ♟️ Fun Fact: 1400+ Chess.com rating
 
 <br clear="right"/>
 
+---
+
 ## 💼 Professional Experience
 
-<div style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+<div align="center">
+  <img src="https://i.ibb.co/LxrqZP9/smartbridge-ezgif-com-resize.gif" alt="SmartBridge" width="120px" style="border-radius: 10px; margin: 20px 0;">
+</div>
 
-### 🏢 SmartBridge 
+<div style="background: linear-gradient(135deg, #1a1b27 0%, #232537 100%); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #2a2f4c;">
+
+### <img src="https://img.shields.io/badge/SmartBridge-Full_Stack-00F7FF?style=for-the-badge&logo=data:image/png;base64,..." height="28px"> 
+
 **Full-Stack Developer** | *Jan 2025 - Apr 2025*
+
+<div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 10px; margin-top: 15px;">
 
 - 💰 Built expense tracker with **React, Node.js & MongoDB**
 - 🤖 Implemented **AI-powered** categorization
 - ⚡ **60%** reduction in manual data entry
 - 🚀 **40%** faster query performance
 
-<div align="center" style="margin-top: 20px;">
-  <img src="https://i.ibb.co/LxrqZP9/smartbridge-ezgif-com-resize.gif" alt="SmartBridge" width="200px" style="border-radius: 5px;">
 </div>
 </div>
 
@@ -72,14 +75,14 @@ const rauneet = {
 <div align="center">
 
 ### 💻 Programming Languages
-<p>
+<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px; margin: 10px 0;">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/SQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-</p>
+</div>
 
 ### 🗄️ Database & RDBMS
 <p>
@@ -144,18 +147,37 @@ const rauneet = {
 
 ## 🏆 Achievements & Certifications
 
-<div align="center">
+<div style="background: linear-gradient(135deg, #1a1b27 0%, #232537 100%); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #2a2f4c;">
 
-| 🎯 Category | 🏅 Achievement |
-|------------|---------------|
-| 💻 **Problem Solving** | **400+** problems solved across CodeChef, LeetCode, GFG, CodeForces |
-| ♟️ **Chess** | **1400+** rating on Chess.com |
-| 🎓 **Certifications** | Oracle MySQL Implementation Associate |
-| 🎓 **HackerRank** | Python (Basic), MySQL (Intermediate) |
-| 🎓 **MongoDB** | Node.js Developer Path |
-| 👥 **Leadership** | Led **15-member** team for 24-hour Hackathon |
-| 🎉 **Event Management** | Organized event for **100+ participants** |
+<div class="achievements-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
 
+<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px;">
+  <h3>💻 Problem Solving</h3>
+  <p><strong>400+</strong> problems solved across:</p>
+  <div style="margin: 10px 0;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+    <img src="https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </div>
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px;">
+  <h3>🎓 Certifications</h3>
+  <ul style="list-style-type: none; padding: 0;">
+    <li>✅ Oracle MySQL Implementation Associate</li>
+    <li>✅ HackerRank: Python (Basic), MySQL (Intermediate)</li>
+    <li>✅ MongoDB Node.js Developer Path</li>
+  </ul>
+</div>
+
+<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px;">
+  <h3>👥 Leadership</h3>
+  <p>• Led <strong>15-member</strong> team for 24-hour Hackathon</p>
+  <p>• Organized event for <strong>100+</strong> participants</p>
+  <p>• Chess enthusiast with <strong>1400+</strong> rating</p>
+</div>
+
+</div>
 </div>
 
 <div align="center">
@@ -163,19 +185,6 @@ const rauneet = {
 </div>
 
 
-
-## 📈 Coding Activity
-
-<div align="center">
-  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-profile-trophy.vercel.app/?username=rnt07s&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
-
-</div>
-
----
 
 ## 🎯 Current Focus
 

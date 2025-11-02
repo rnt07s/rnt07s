@@ -64,11 +64,6 @@ const rauneet = {
 
 <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 10px; margin-top: 15px;">
 
-- 💰 Built expense tracker with **React, Node.js & MongoDB**
-- 🤖 Implemented **AI-powered** categorization
-- ⚡ **60%** reduction in manual data entry
-- 🚀 **40%** faster query performance
-
 </div>
 </div>
 

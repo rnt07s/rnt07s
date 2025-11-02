@@ -164,12 +164,7 @@ const rauneet = {
   </ul>
 </div>
 
-<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px;">
-  <h3>👥 Leadership</h3>
-  <p>• Led <strong>15-member</strong> team for 24-hour Hackathon</p>
-  <p>• Organized event for <strong>100+</strong> participants</p>
-  <p>• Chess enthusiast with <strong>1400+</strong> rating</p>
-</div>
+
 
 </div>
 </div>

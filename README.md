@@ -27,24 +27,19 @@
 
 ## 🚀 About Me
 
-```javascript
-const rauneet = {
-    location: "New Delhi, India 🇮🇳",
-    education: "VIT - CSE",
-    role: "Full-Stack Developer",
-    code: ["JavaScript", "Python", "Java", "C++"],
-    askMeAbout: ["Web Dev", "APIs", "Cloud", "Chess ♟️"],
-    technologies: {
-        frontend: ["React", "Redux", "HTML5", "CSS3"],
-        backend: ["Node.js", "Express", "FastAPI", "Flask"],
-        databases: ["MongoDB", "PostgreSQL", "MySQL"],
-        devOps: ["AWS", "Docker", "CI/CD", "Jenkins"],
-        testing: ["Jest", "TDD"]
-    },
-    currentFocus: "Building scalable applications",
-    funFact: "1400+ Chess.com rating ♟️"
-};
-```
+- 🏠 Based in New Delhi, India 🇮🇳
+- 🎓 Education: VIT - CSE
+- 💻 Full-Stack Developer
+- 🛠️ Skills: JavaScript, Python, Java, C++
+- 💡 Interests: Web Dev, APIs, Cloud, Chess ♟️
+- 🔧 Tech Stack:
+  - Frontend: React, Redux, HTML5, CSS3
+  - Backend: Node.js, Express, FastAPI, Flask
+  - Databases: MongoDB, PostgreSQL, MySQL
+  - DevOps: AWS, Docker, CI/CD, Jenkins
+  - Testing: Jest, TDD
+- 🎯 Current Focus: Building scalable applications
+- ♟️ Fun Fact: 1400+ Chess.com rating
 
 <br clear="right"/>
 
@@ -66,7 +61,9 @@ const rauneet = {
 
 </td>
 <td width="50%">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100%">
+<p align="center">
+  <img src="https://i.ibb.co/LxrqZP9/smartbridge-ezgif-com-resize.gif" alt="SmartBridge" width="100%" style="max-width: 400px;">
+</p>
 </td>
 </tr>
 </table>

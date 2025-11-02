@@ -47,11 +47,9 @@
 
 ## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="50%">
+<div style="background-color: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
 
-### 🏢 SmartBridge
+### 🏢 SmartBridge 
 **Full-Stack Developer** | *Jan 2025 - Apr 2025*
 
 - 💰 Built expense tracker with **React, Node.js & MongoDB**
@@ -59,14 +57,10 @@
 - ⚡ **60%** reduction in manual data entry
 - 🚀 **40%** faster query performance
 
-</td>
-<td width="50%">
-<p align="center">
-  <img src="https://i.ibb.co/LxrqZP9/smartbridge-ezgif-com-resize.gif" alt="SmartBridge" width="100%" style="max-width: 400px;">
-</p>
-</td>
-</tr>
-</table>
+<div align="center" style="margin-top: 20px;">
+  <img src="https://i.ibb.co/LxrqZP9/smartbridge-ezgif-com-resize.gif" alt="SmartBridge" width="200px" style="border-radius: 5px;">
+</div>
+</div>
 
 ---
 

@@ -27,23 +27,26 @@
 
 ## 🚀 About Me
 
-- 🏠 Based in New Delhi, India 🇮🇳
-- 🎓 Education: VIT - CSE
-- 💻 Full-Stack Developer
-- 🛠️ Skills: JavaScript, Python, Java, C++
-- 💡 Interests: Web Dev, APIs, Cloud, Chess ♟️
-- 🔧 Tech Stack:
-  - Frontend: React, Redux, HTML5, CSS3
-  - Backend: Node.js, Express, FastAPI, Flask
-  - Databases: MongoDB, PostgreSQL, MySQL
-  - DevOps: AWS, Docker, CI/CD, Jenkins
-  - Testing: Jest, TDD
-- 🎯 Current Focus: Building scalable applications
-- ♟️ Fun Fact: 1400+ Chess.com rating
+```javascript
+const rauneet = {
+    location: "New Delhi, India 🇮🇳",
+    education: "VIT - CSE",
+    role: "Full-Stack Developer",
+    code: ["JavaScript", "Python", "Java", "C++"],
+    askMeAbout: ["Web Dev", "APIs", "Cloud", "Chess ♟️"],
+    technologies: {
+        frontend: ["React", "Redux", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express", "FastAPI", "Flask"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        devOps: ["AWS", "Docker", "CI/CD", "Jenkins"],
+        testing: ["Jest", "TDD"]
+    },
+    currentFocus: "Building scalable applications",
+    funFact: "1400+ Chess.com rating ♟️"
+};
+```
 
 <br clear="right"/>
-
----
 
 ## 💼 Professional Experience
 

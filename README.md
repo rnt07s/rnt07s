@@ -156,10 +156,7 @@ const rauneet = {
 <div class="achievements-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
 
 <div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px;">
-  <h3>💻 Problem Solving</h3>
-  <p><strong>400+</strong> problems solved across:</p>
-  <div style="margin: 10px 0;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+ 
   </div>
 </div>
 

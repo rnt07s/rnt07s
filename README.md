@@ -56,19 +56,12 @@ const rauneet = {
 <tr>
 <td width="50%">
 
-<table>
-<tr>
-<td width="80">
-<img src="https://raw.githubusercontent.com/rnt07s/rnt07s/main/smartbridge-logo.png" alt="SmartBridge" width="70"/>
-</td>
-<td>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rnt07s/rnt07s/main/smartbridge-logo.png" alt="SmartBridge Logo" width="200"/>
+</div>
 
-### SmartBridge
+### 🏢 SmartBridge
 **Full-Stack Developer** | *March 2025 - May 2025*
-
-</td>
-</tr>
-</table>
 
 - 💰 Built expense tracker with **React, Node.js & MongoDB**
 - 🤖 Implemented **AI-powered** categorization

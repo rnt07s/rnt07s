@@ -14,10 +14,10 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rauneetsingh07)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rauneetsingh07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rauneet-singh-5676ab250/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/rnt07s)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rauneetsingh07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat&logo=firefox&logoColor=white)](https://rauneet-singh.vercel.app/)
 
 </div>
 
@@ -195,6 +195,20 @@ const rauneet = {
 
 ---
 
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rnt07s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnt07s&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnt07s&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rnt07s&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+---
+
 ## 🏆 Achievements & Certifications
 
 <div align="center">
@@ -222,7 +236,7 @@ const rauneet = {
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100">
+<img src="https://media.giphy.com/media/YOqbsB7Ega3xlShMLe/giphy.gif" width="100">
 
 **🏸 Sports Coordinator**  
 Badminton - AdVITya Fest  
@@ -257,7 +271,7 @@ Social Initiatives
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src="https://github-profile-trophy.vercel.app/?username=rauneetsingh07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=rnt07s&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%" alt="Trophy" />
 
 </div>
 
@@ -301,10 +315,10 @@ Goal: Contributing to Open Source Projects
 <a href="mailto:rauneetsingh07@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/rauneetsingh07">
+<a href="https://www.linkedin.com/in/rauneet-singh-5676ab250/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/rauneetsingh07">
+<a href="https://github.com/rnt07s">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -318,6 +332,6 @@ Goal: Contributing to Open Source Projects
 
 ### Show some ❤️ by starring some of my repositories!
 
-![](https://komarev.com/ghpvc/?username=rauneetsingh07&color=blueviolet&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=rnt07s&color=blueviolet&style=for-the-badge)
 
 </div>

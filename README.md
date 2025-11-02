@@ -146,24 +146,7 @@ const rauneet = {
 ---
 
 
-## 📊 GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/rnt07s/rnt07s">
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rnt07s&theme=github_dark&hide_border=true" alt="Rauneet's GitHub Stats Graph"/>
-  </a>
-  <br><br>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rnt07s&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rnt07s&theme=github-dark-blue&hide_border=true" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnt07s&layout=compact&theme=github_dark&show_icons=true&hide_border=true" alt="rnt07s" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=rnt07s&theme=github-compact&hide_border=true&area=true" />
-</div>
-
----
 
 ## 🏆 Achievements & Certifications
 
@@ -185,40 +168,7 @@ const rauneet = {
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
----
 
-## 🎨 Extracurricular Activities
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://media.giphy.com/media/YOqbsB7Ega3xlShMLe/giphy.gif" width="100">
-
-**🏸 Sports Coordinator**  
-Badminton - AdVITya Fest  
-Managed 50+ participants
-
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-**💻 Open Source Club**  
-Core Member  
-Tech Workshops & Projects
-
-</td>
-<td width="33%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d62dfd2f9224.gif" width="100">
-
-**🤝 NSS Volunteer**  
-Community Service  
-Social Initiatives
-
-</td>
-</tr>
-</table>
-
----
 
 ## 📈 Coding Activity
 

@@ -30,7 +30,7 @@
 ```javascript
 const rauneet = {
     location: "New Delhi, India 🇮🇳",
-    education: "VIT - CSE (CGPA: 8.23)",
+    education: "VIT - CSE",
     role: "Full-Stack Developer",
     code: ["JavaScript", "Python", "Java", "C++"],
     askMeAbout: ["Web Dev", "APIs", "Cloud", "Chess ♟️"],

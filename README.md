@@ -141,56 +141,6 @@ const rauneet = {
 
 ---
 
-
-
-
-## 🏆 Achievements & Certifications
-
-<div style="background: linear-gradient(135deg, #1a1b27 0%, #232537 100%); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #2a2f4c;">
-
-<div class="achievements-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 15px;">
-
-<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px;">
- 
-  </div>
-</div>
-
-<div style="background: rgba(255, 255, 255, 0.05); padding: 20px; border-radius: 10px;">
-  <h3>🎓 Certifications</h3>
-  <ul style="list-style-type: none; padding: 0;">
-    <li>✅ Oracle MySQL Implementation Associate</li>
-    <li>✅ HackerRank: Python (Basic), MySQL (Intermediate)</li>
-    <li>✅ MongoDB Node.js Developer Path</li>
-  </ul>
-</div>
-
-
-
-</div>
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
-
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```yaml
-Learning: Advanced System Design & Microservices Architecture
-Building: Scalable Full-Stack Applications
-Exploring: Cloud-Native Technologies & DevOps Best Practices
-Improving: Competitive Programming Skills
-Goal: Contributing to Open Source Projects
-```
-
-</div>
-
----
-
 ## 💡 Fun Facts
 
 <div align="center">

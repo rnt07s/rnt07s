@@ -60,7 +60,7 @@ const rauneet = {
 
 ### <img src="https://img.shields.io/badge/SmartBridge-Full_Stack-00F7FF?style=for-the-badge&logo=data:image/png;base64,..." height="28px"> 
 
-**Full-Stack Developer** | *Jan 2025 - Apr 2025*
+**Full-Stack Developer** | *Mar 2025 - May 2025*
 
 <div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 10px; margin-top: 15px;">
 

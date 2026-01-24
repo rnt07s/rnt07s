@@ -46,27 +46,6 @@ const rauneet = {
     funFact: "1400+ Chess.com rating ♟️"
 };
 ```
-
-<br clear="right"/>
-
-
-## 💼 Professional Experience
-
-<div align="center">
-  <img src="https://i.ibb.co/LxrqZP9/smartbridge-ezgif-com-resize.gif" alt="SmartBridge" width="120px" style="border-radius: 10px; margin: 20px 0;">
-</div>
-
-<div style="background: linear-gradient(135deg, #1a1b27 0%, #232537 100%); padding: 25px; border-radius: 15px; margin: 20px 0; border: 1px solid #2a2f4c;">
-
-### <img src="https://img.shields.io/badge/SmartBridge-Full_Stack-00F7FF?style=for-the-badge&logo=data:image/png;base64,..." height="28px"> 
-
-**Full-Stack Developer** | *Mar 2025 - May 2025*
-
-<div style="background: rgba(255, 255, 255, 0.05); padding: 15px; border-radius: 10px; margin-top: 15px;">
-
-</div>
-</div>
-
 ---
 
 ## 🛠️ Tech Stack
